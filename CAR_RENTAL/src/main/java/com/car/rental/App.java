@@ -1,4 +1,4 @@
-package com.car.rental.CAR_RENTAL;
+package com.car.rental;
 
 /**
  * Hello world!
